@@ -6,6 +6,7 @@
 ## 必要なもの
 
 Python 3.8 以降で動作します。<br>
+また、`discord.py`と`python-dotenv`の2つのライブラリをインストールしておいてください。
 
     $ -m pip install -U discord.py
     $ -m pip install python-dotenv
@@ -18,6 +19,6 @@ Python 3.8 以降で動作します。<br>
 ## 使い方
 
 1. 誰かが良いこと言ったら、そのメッセージにリアクションをつける（デフォルトでは🗒️）<br>
-1. かしわが生成したURLをクリックして、ページを作成<br>
+1. かしわが生成したURLをクリックして、ページを作成
 
 ※Scrapboxのプロジェクト設定がPrivateの場合、Memberである必要があります。
