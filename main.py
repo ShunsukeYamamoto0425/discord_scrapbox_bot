@@ -10,7 +10,7 @@ import datetime
 # .envファイルから値を読み込む
 import settings
 
-# Botのアクセストークン
+# DiscordBotのアクセストークン
 TOKEN = settings.TOKEN
 # Scrapboxのプロジェクト名
 PROJECT_NAME = settings.PROJECT_NAME
