@@ -1,6 +1,6 @@
 # Discord メッセージ保存Bot『かしわ』
 
-![kashiwa_screenshot1](https://github.com/ShunsukeYamamoto0425/discord_scrapbox_bot/assets/93860634/a73f2729-ab9e-4d77-969a-5b0ce0e958ec)
+![kashiwa_screenshot1](https://github.com/ShunsukeYamamoto0425/discord_scrapbox_bot/assets/93860634/fe25eaca-bee9-4870-9445-03b91f729f5b)
 ![kashiwa_screenshot2](https://github.com/ShunsukeYamamoto0425/discord_scrapbox_bot/assets/93860634/f4d3395f-bf94-47db-b657-8178776a3911)
 
 特定のリアクションがついたメッセージの内容を保存します。<br>
